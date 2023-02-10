@@ -22,7 +22,7 @@ python main.py picture -c COMPRESSION -g NB_GROUP -o OUTPUT
 ## Workflow
 
 <p align="center">
-  <img src="https://github.com/TheBaronMc/K-Means-converter-ASCII-art/blob/master/workflow.png?raw=true" />
+  <img src="https://github.com/TheBaronMc/K-Means-converter-ASCII-art/blob/master/worklfow.png?raw=true" />
 </p>
 
 ## Inspiration
